@@ -1,14 +1,14 @@
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [ ] HTML main tags [Playlist](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
-  - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
-  - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
-  - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
-  - [ ] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
-  - [ ] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
-  - [ ] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
-  - [ ] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
+- [x] HTML main tags [Playlist](https://www.youtube.com/playlist?list=PLblA84xge2_xNtaFnZhefjFbnDrpySKD3)
+  - [x] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
+  - [x] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
+  - [x] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
+  - [x] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
+  - [x] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
+  - [x] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
   
+  - [x] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
 - [ ] HTML5 Structural / Semantic elements
   - [ ] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
   - [ ] `<address>` [Link](https://www.w3docs.com/learn-html/html-address-tag.html)
@@ -105,21 +105,21 @@
         - [ ] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
         - [ ] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
    - [ ] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-        - [ ] String 
-        - [ ] Boolean
-        - [ ] Number 
-        - [ ] null 
-        - [ ] undefined
-        - [ ] Symbol [Video](https://youtu.be/4J5hnOCj69w)
-   - [ ] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
-   - [ ] String functions 
-        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
-        - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
-        - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
-        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
-        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+        - [x] String 
+        - [x] Boolean
+        - [x] Number 
+        - [x] null 
+        - [x] undefined
+        - [x] Symbol [Video](https://youtu.be/4J5hnOCj69w)
+   - [x] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [x] String functions 
+        - [x] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+        - [x] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+        - [x] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [x] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [x] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [x] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
 - [ ] Operators
     - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
         - [ ] `+`
