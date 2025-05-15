@@ -217,17 +217,17 @@
 
 
 #### Web fundamentals
-  - [ ] How does the web work? [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-  - [ ] How does a web browser work? [Article](https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2)
-  - [ ] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
-     - [ ] headers
-     - [ ] request
-     - [ ] response
-     - [ ] verbs: PUT, POST, DELETE, PATCH, POST
-- [ ] What is an API? [Video](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
-     - [ ] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud) [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-     - [ ] What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts) [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
-  - [ ] What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)  - [ ] What are cookies? [Article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)[Video](https://www.youtube.com/watch?v=rdVPflECed8&ab_channel=CreateaProWebsite)
+  - [x] How does the web work? [Article](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  - [x] How does a web browser work? [Article](https://medium.com/@monica1109/what-happens-when-i-type-any-url-in-the-browser-3719c6357da2)
+  - [x] HTTP basics [Video](https://www.youtube.com/watch?v=t3xrHaqX2tc&ab_channel=OracleDevelopers)
+     - [x] headers
+     - [x] request
+     - [x] response
+     - [x] verbs: PUT, POST, DELETE, PATCH, POST
+- [x] What is an API? [Video](https://www.youtube.com/watch?v=Yzx7ihtCGBs&ab_channel=CodeWithChris)
+     - [x] What is REST API? [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMCloud) [Article](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+     - [x]  What is GraphQL API? [Video](https://www.youtube.com/watch?v=VjXb3PRL9WI&ab_channel=LevelUpTuts) [Article](https://medium.com/devgorilla/what-is-graphql-f0902a959e4) [Podcast](https://frontendhappyhour.com/episodes/no-rest-with-quintessential-libations-graphql/)
+  - [x]  What are CRUD operations? [Article](https://www.codecademy.com/articles/what-is-crud)  - [ ] What are cookies? [Article](https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/)[Video](https://www.youtube.com/watch?v=rdVPflECed8&ab_channel=CreateaProWebsite)
     - [ ] Getting and setting cookies [Article](https://javascript.info/cookie)
   - [ ] What is local storage? [Article](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
   - [ ] What is session storage? [Article](https://www.javascripttutorial.net/web-apis/javascript-sessionstorage/)
